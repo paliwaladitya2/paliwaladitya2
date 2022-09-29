@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on web development.
 - 📫 How to reach me :
--   -> LinkedIn: linkedin.com/in/aditya-paliwal-83b700200
+-   -> LinkedIn: [linkedin.com/in/aditya-paliwal-83b700200](https://www.linkedin.com/in/aditya-paliwal-83b700200/)
 -   -> Gmail: paliwaladitya2@gmail.com
